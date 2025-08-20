@@ -7,6 +7,9 @@ Zombie Mayhem is a game intended for hands-on practice for the following skills:
 
 The objective of the game is to survive upcoming zombie hordes with different weapon mechanics in each round.
 
+## Game Play Example
+[![Watch the video](https://img.youtube.com/vi/KlCzROTAos4/0.jpg)](https://www.youtube.com/watch?v=Yl67nJ76OQ0)
+
 ## Getting Started
 
 These instructions will help you set up and run the project on your local machine.
